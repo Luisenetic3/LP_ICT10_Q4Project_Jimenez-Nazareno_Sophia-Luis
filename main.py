@@ -16,11 +16,15 @@ class FutureProf:
 
 # List that stores all classmate objects
 classmates = [
+    FutureProf("Zyan", "Sapphire", "Actor"),
     FutureProf("KC", "Sapphire", "Doctor"),
     FutureProf("Luis", "Sapphire", "Engineer"),
     FutureProf("Sophia", "Sapphire", "Architect"),
+    FutureProf("AC", "Sapphire", "Chef"),
     FutureProf("Javier", "Sapphire", "Pilot"),
-    FutureProf("Briana", "Sapphire", "Teacher")
+    FutureProf("Kleiser", "Sapphire", "Zoo Keeper"),
+    FutureProf("Briana", "Sapphire", "Teacher"),
+    FutureProf("Cade", "Sapphire", "Nurse")
 ]
 
 
