@@ -14,7 +14,7 @@ class FutureProf:
         return f"👋 Hello, my name is {self.name} from Grade 10 {self.section}. My future profession is {self.profession}. 🫡"
 
 
-# List that stores all classmate objects
+# List that stores all classmate objects ahh hell nah
 classmates = [
     FutureProf("Zyan", "Sapphire", "Actor"),
     FutureProf("KC", "Sapphire", "Doctor"),
